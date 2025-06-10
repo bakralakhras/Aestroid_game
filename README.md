@@ -6,7 +6,11 @@ A simple asteroid shooter built with Python and Pygame.
 
 ## Demo 🎮
 
-[Watch the demo video](https://youtube.com/your-demo-link)
+[Watch the demo video](https://github.com/user-attachments/assets/df4bcae2-8eee-46aa-8465-14265b4a09ee
+)
+
+
+
 
 ---
 
